@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 -  **Languages :** Java, Spring, Spring Boot, Mysql, Web 全栈
 -  **Hobbies :** Sleep :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** 微信：18866783675
-
-
 
 
 ### Wait for you
