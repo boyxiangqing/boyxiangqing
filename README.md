@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 [![奋斗的可达鸭的 GitHub](https://github-readme-stats.vercel.app/api?username=boyxiangqing&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/itwanger)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyxiangqing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
 
 ### About
 
@@ -30,6 +29,7 @@ Here are some ideas to get you started:
 -  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** 微信：18866783675
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyxiangqing&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 
 ### Languages and Tools
