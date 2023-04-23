@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, Spring, Spring Boot, Mysql, Web 全栈
--  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
+-  **Hobbies :** Sleep :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** 微信：18866783675
 
