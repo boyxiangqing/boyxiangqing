@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ### Wait for you
 
-<img src="https://giphy.com/stickers/lovebonito-community-girlpower-loyalty-KyNnopxciToRJhmXgq" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://giphy.com/stickers/lovebonito-community-girlpower-loyalty-KyNnopxciToRJhmXgq.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
