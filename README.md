@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ### Wait for you
 
-<img src="[68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966.gif](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
