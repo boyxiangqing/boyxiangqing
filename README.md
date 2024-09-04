@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi 大家好, 我是Alan, 一枚努力奋斗的后端程序员🚀. 
+👋 I am Alan, a programmer🚀.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** Java, Spring, Spring Boot, Mysql, Web 全栈
 -  **Hobbies :** Sleep :performing_arts: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 
